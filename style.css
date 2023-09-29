@@ -1,0 +1,65 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: gray;
+}
+.svetafor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 250px;
+    background-color: black;
+    margin: 100px auto;
+}
+.qizil
+{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.sariq{
+    background-color: yellow;
+    width: 50px;
+    height:50px ;
+    border-radius: 50%;
+    margin: 20px 0;
+}
+.yashil{
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.ota{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 250px;
+ height: 80px;
+ background-color: black;
+ margin: 100px auto;
+}
+.bola-qizil{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}.bola-sariq{
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 0 20px;
+}.bola-yashil{
+    background-color: rgb(6, 241, 37);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+
+}
